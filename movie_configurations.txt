@@ -1,0 +1,23 @@
+#**************************************************************************
+#*                                                                        *
+#*    List of Movies with detail                                          *
+#*                                                                        *
+#*    One Movie per Line                                                  *
+#*                                                                        *
+#*    Five Fields per Movie Line                                          *
+#*       1. Title                                                         *
+#*       2. Description                                                   *
+#*       3. Poster  Image  URL                                            *
+#*       4. Trailer yutube URL                                            *
+#*       5. Rating                                                        *
+#*                                                                        *
+#*     The fields are delimited by the pipe (|) character                 *
+#*                                                                        *
+#**************************************************************************
+Hawaiian Vacation|Woody and Buzz lead a group of toys in giving Ken and Barbie the Hawaiian vacation|https://upload.wikimedia.org/wikipedia/en/6/63/Hawaiian_Vacation_poster.jpg|https://youtu.be/5zQ3-ZzHndo|PG
+A Bug's Life|Embark on an incredible journey with one little ant as he searches for a brave band of warriors|https://upload.wikimedia.org/wikipedia/en/c/cc/A_Bug%27s_Life.jpg|https://www.youtube.com/watch?v=vhGlMv3UCXA|PG
+Small Fry|Buzz Lightyear is left behind at a fast food restaurant|https://i.ytimg.com/vi/P-rgtaZPItc/movieposter.jpg|https://youtu.be/JwtI7xI50Lw|PG
+Avatar|A marine on an alien planet|http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg|https://www.yutube.com/watch?v=-9ceBgWV8io|P
+School of Rock|Using Rock music to learn|http://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg|https://www.yutube.com/watch?v=3PsUJFEBC74|PG
+Ratatouille|A Rat is a chef in Paris|http://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg|https://www.yutube.com/watch?v=c3sBBRxDAqk|R
+
